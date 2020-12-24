@@ -14,5 +14,3 @@
 - StoryBook
 
 ## Todo
-
-- Setup Husky
