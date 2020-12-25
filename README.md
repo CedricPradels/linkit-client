@@ -12,5 +12,6 @@
 - Stylelint
 - Prettier
 - StoryBook
+- (Redux)
 
 ## Todo
