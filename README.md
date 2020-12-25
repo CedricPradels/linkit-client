@@ -12,7 +12,6 @@
 - Stylelint
 - Prettier
 - StoryBook
+- (Redux)
 
 ## Todo
-
-- Setup Husky
